@@ -1,0 +1,13 @@
+{
+    "orgs": [
+        {
+            "name": "",
+            "tag-name": "",
+            "short-name": "",
+            "jira-project": "",
+	    "orgId": "",
+            "notifications_profile": "",
+            "alerts_profile": ""
+        }
+    ]
+}

@@ -1,0 +1,18 @@
+{
+	"byDomain": {
+		"TODO:domain": "TODO:client",
+	},
+	"mailboxes": [
+		{
+			"name": "",
+			"short_name": "",
+			"server": "",
+			"username": "",
+			"password": "",
+			"auth_type": "",
+			"smtp_address": "",
+			"folder_name": ""
+		}
+
+	]
+}
